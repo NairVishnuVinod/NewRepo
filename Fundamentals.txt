@@ -1,0 +1,10 @@
+Git commands
+
+Git Status : to get the status of the git folder
+
+Git add file_name : to add file to the master repo
+
+Git add . (for all file) : to add all the files
+
+Git commit -m "Type the message"
+
